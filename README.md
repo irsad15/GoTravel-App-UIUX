@@ -1,17 +1,10 @@
-# Travel Website Dengan Laravel
-
-## Preview
-
-![preview img](/preview.png)
-
-
 Go to the project directory
 
 ```bash
   cd project-name
 ```
 
--   Copy .env.example file to .env and edit database credentials there
+-   Copy .env.example dan ubah jadi .env and edit database/nama database travel 
 
 ```bash
     composer install
@@ -29,7 +22,7 @@ Go to the project directory
     php artisan storage:link
 ```
 
-#### Login
+untuk admin http://127.0.0.1:8000/Login
 
 -   email = admin@admin.com
 -   password = 123
