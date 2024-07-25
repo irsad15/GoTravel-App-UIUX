@@ -1,6 +1,5 @@
 Cara menjalankan
 ```
-
 -   Copy .env.example dan ubah jadi .env and edit database/nama database travel 
 
 ```bash
