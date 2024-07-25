@@ -1,7 +1,4 @@
-Go to the project directory
-
-```bash
-  cd project-name
+Cara menjalankan
 ```
 
 -   Copy .env.example dan ubah jadi .env and edit database/nama database travel 
